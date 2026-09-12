@@ -50,7 +50,7 @@ export const COPY = {
     alt: "switch",
     whyTitle: "Why the odds move",
     whyBody:
-      "The prize never moves. Your information does: the host knows the empty doors and always opens a goat. Your first pick stays at 1/n. The leftover probability concentrates on the still-closed other doors. Switching beats the intuition that \u201cnow they are equal.\u201d",
+      "The prize never moves. Your information does: the host knows the empty doors and always opens a goat. Your first pick stays at 1/n. The leftover probability concentrates on the still-closed other doors. Switching beats the intuition that now they are equal.",
     formulaStay: "P(stay) = 1 / n",
     formulaSwitch: "P(switch) = (1 − 1/n) / (n − 1 − k)",
     formulaHint: "n is rooms, k is empty ones the host opens.",
